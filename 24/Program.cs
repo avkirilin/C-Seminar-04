@@ -6,4 +6,4 @@ for (int i = 0; i <= a; i++)
 {
     summ = summ + i;
 }
-Console.WriteLine ($"Сумма чисел от 0 до {a} будет равна {summ}");
+Console.WriteLine ($"Сумма чисел от 1 до {a} будет равна {summ}");
